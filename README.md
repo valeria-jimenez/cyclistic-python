@@ -3,8 +3,9 @@
 2. [Task](https://github.com/valeria-jimenez/cyclistic-python?tab=readme-ov-file#task)
 3. [Data](https://github.com/valeria-jimenez/cyclistic-python?tab=readme-ov-file#data)
 4. [Data Processing and Cleaning](https://github.com/valeria-jimenez/cyclistic-python?tab=readme-ov-file#data-processing-and-cleaning)
-5. [Findings](https://github.com/valeria-jimenez/cyclistic-python?tab=readme-ov-file#findings)
-6. [Recommendations](https://github.com/valeria-jimenez/cyclistic-python?tab=readme-ov-file#recommendations)
+5. [Analysis](https://github.com/valeria-jimenez/cyclistic-python?tab=readme-ov-file#analysis)
+7. [Findings](https://github.com/valeria-jimenez/cyclistic-python?tab=readme-ov-file#findings)
+8. [Recommendations](https://github.com/valeria-jimenez/cyclistic-python?tab=readme-ov-file#recommendations)
 
 # Introduction
 * This case study is a part of the Google Data Analytics Course Capstone, originally based on [this case study](https://artscience.blog/home/divvy-dataviz-case-study).
@@ -17,6 +18,11 @@
 * The data is provided by Google as part of the Google Data Analytics Certification course. It has bike-share information from January 2021 to December 2021.
 
 # Data Processing and Cleaning
+* Times were converted from string objects to datetime objects.
+* New features were created from existing features (duration of ride, day of week, month, and hour of trip initiation)
+
+# Analysis
+* The detailed analysis can be seen [here](https://github.com/valeria-jimenez/cyclistic-python/blob/main/cyclistic.ipynb).
 
 # Findings
 * Members
